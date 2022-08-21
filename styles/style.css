@@ -1,0 +1,10 @@
+.fit-picture {
+    width: 250px;
+}
+
+body
+{
+    background-image: url("grand-ourq.png");
+    background-size: cover;
+
+}
